@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://www.smartpayqr.com/zhongyi.ipa</string>
+     <string>http://www.smartpayqr.com/app/zhongyi.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
